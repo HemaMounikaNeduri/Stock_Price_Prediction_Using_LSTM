@@ -37,7 +37,7 @@ Technologies : Machine Learning
 Libraries : Numpy,Pandas,Matplotlib,Seaborn,Sklearn,TensorFlow,Keras
 ## Documentation
 
-[Documentation](https://github.com/HemaMounikaNeduri/Stock_Price_Prediction_Using_LSTM/blob/main/Team17_BLUEPRINT.docx)
+[Documentation](https://github.com/HemaMounikaNeduri/Stock_Price_Prediction_Using_LSTM/blob/main/Documentation.docx)
 
   
 ## Screenshots
@@ -50,3 +50,4 @@ Libraries : Numpy,Pandas,Matplotlib,Seaborn,Sklearn,TensorFlow,Keras
 If you have any feedback, please reach out to us at hemamounika.n@gmail.com
 
   
+
